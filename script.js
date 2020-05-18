@@ -30,7 +30,6 @@ function operateDisplay (e){
     currentValue = display.innerHTML;
     currentOpp = e.target.innerHTML;
     newEntryFlag=true;
-    console.log({currentValue})
 }
 
 function calculate (e){

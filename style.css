@@ -84,6 +84,7 @@
     background: #EDE7F6;
     padding: 1rem;
     border-radius: 1.5rem;
+    text-align: center;
   }
 
 #grid > div:hover {
@@ -95,4 +96,5 @@
     background: rgb(253, 253, 253);
     border: 1px solid #EDE7F6;
     border-radius: 1.5rem;
+    text-align: left;
 }
